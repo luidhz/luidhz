@@ -1,4 +1,4 @@
-## Oii eu sou Luiz Henrique, estudante de Sistemas de Informação !
+## Me chamo Luiz Henrique, e sou estudante de Sistemas de Informação !
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
