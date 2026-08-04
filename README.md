@@ -9,7 +9,7 @@
 ## Technologies and tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,mysql,postgres,git" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,postman,git" />
 </p>
 
  
